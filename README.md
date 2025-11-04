@@ -18,7 +18,7 @@ This project uses a publicly available dataset of the MUBI streaming platform (o
 The analysis followed a structured, multi-step EDA process using SQL and Python/Pandas, designed to answer core business questions:
 
 1. **Project Initialization & Data Acquisition:** Defined the strategic context, core business goals, and initial key business questions for the analysis.
-2.  **Data exploration & Quality check** Identifying and cleaning critical technical flaws to Construct the tables structure.
+2.  **Data exploration & Cleaning** Identifying and cleaning critical technical flaws to Construct the tables structure.
 3.  **Top rated and popular movies:** Identifying the top-rated and most popular movies and determined thier genres.
 4.  **Release Year Trend:** Quantified the preference for older\newer films.
 5.  **Director Performance** Find the most and least popular directors.
