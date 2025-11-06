@@ -1,0 +1,6 @@
+# Python 3.13.7 was used for this project.
+pandas==2.3.2
+matplotlib==3.10.6
+seaborn==0.13.2
+# Note: Standard library modules (sqlite3, pathlib) are not included here,
+# as they are part of the Python installation itself.
